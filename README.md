@@ -107,3 +107,4 @@ This project is licensed under the MIT License.
 ---
 
 Get started now and keep your server active with a smart, customizable bot! ⛏️
+"# mcbotkral" 
